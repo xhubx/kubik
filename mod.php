@@ -3,12 +3,12 @@ error_reporting(0);
 
 ################*EDIT*#################
 
-$config['deviceCode'] = '865228035186890';
-$config['tk'] = 'ACCR60nWgg9NMIXa_2FTP7wB2jrPVvFRfTlxdHRodw';
-$config['token'] = 'f8f8cdEgOCWzmcvzITcHoLY5yFze87m_d0Ui-G-3MKQ8MFyT3MEdYKuR1VGmfJ4FyFNOOCpnf5AudSs';
-$config['uuid'] = '7de1fac70c3845ea9ac06e88ad9c6fd7';
-$config['sign'] = '4b0238e6dd8609fd45bf690f1a720920';
-$config['android_id'] = '50d9152bac2ef15c';
+$config['deviceCode'] = 'EDITxxxxxx0';
+$config['tk'] = 'EDITxxxxxx0';
+$config['token'] = 'EDITxxxxxx0';
+$config['uuid'] = 'EDITxxxxxx0';
+$config['sign'] = 'EDITxxxxxx0';
+$config['android_id'] = 'EDITxxxxxx0';
 
 #####################################
 
