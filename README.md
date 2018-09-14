@@ -12,6 +12,7 @@ php kubik.php
 
 Yang belum punya apk kubik:
 DAFTAR: http://invite.kubik.mobi/invite/A6947143
+
 code invite: A6947143
 
 
